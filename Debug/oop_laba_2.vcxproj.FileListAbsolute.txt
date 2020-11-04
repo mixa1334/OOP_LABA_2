@@ -1,0 +1,2 @@
+C:\Users\furno\source\repos\oop_laba_2\Debug\oop_laba_2.exe
+C:\Users\furno\source\repos\oop_laba_2\Debug\oop_laba_2.pdb
